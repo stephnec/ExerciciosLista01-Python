@@ -1,4 +1,4 @@
-Lista
+Primeira Lista de Exercicios -- Python
 
 1. PROGRAMA QUADRADO - O usuário digita um número e o
 programa retorna o quadrado deste número (o número multiplicado por
