@@ -1,0 +1,47 @@
+Primeira Lista de Exercicios -- Python
+
+1. PROGRAMA QUADRADO - O usuário digita um número e o
+programa retorna o quadrado deste número (o número multiplicado por
+ele mesmo).
+
+2. PROGRAMA QUADRADO 2.0 – O usuário informa três números
+inteiros, o programa soma esses três valores e depois mostra o
+quadrado do resultado obtido.
+
+3. PROGRAMA CALCULOS – O usuário informa quatro valores. O
+programa mostra o resultado da multiplicação do primeiro pelo terceiro e
+o resultado da soma do segundo com o quarto.
+
+4. PROGRAMA COTAÇÃO – O usuário digita quanto está valendo o
+dólar e quanto em reais ele possui. O programa exibe quantos dólares
+vale os reais que o usuário informou.
+
+5. PROGRAMA ABASTECIMENTO – Deve ser informado o preço do
+litro do combustível e o valor em dinheiro que se deseja abastecer. O
+programa mostra quantos litros serão comprados. (Ex. a gasolina custa
+R$ 4,30 e o motorista quer abastecer R$ 50,00).
+
+6. PROGRAMA TEMPERATURA – O usuário digita a temperatura em
+graus Célsius e o programa exibe o valor em graus Fahrenheit.
+
+7. PROGRAMA VOLUME – Calcula o volume cúbico de uma lata de
+óleo. O usuário informa a altura e o valor de r. O programa calcula
+através da fórmula VOLUME = 3.14 * (R * R) * ALTURA.
+
+8. PROGRAMA PRESTAÇÃO – O usuário informa o valor de um boleto,
+o percentual de juros cobrado e o numero de dias em atraso. O
+programa calcula o novo valor a ser pago através da fórmula:
+NOVO VALOR = VALOR BOLETO + (VALOR BOLETO * (JUROS/100)) * DIAS
+
+9. PROGRAMA MILIONÁRIO – O usuário informa o valor do seu
+salário e suas despesas mensais. O programa calcula o valor que
+sobra e diz quanto tempo (em anos) será necessário poupar para
+se tornar milionário.
+
+10. APURAÇÃO – Três candidatos concorreram a uma eleição
+(A, B, C). O usuário deve informar quantos votos cada candidato
+recebeu, quantos foram os votos brancos e quantos foram os
+votos nulos. O programa deve calcular e informar: o número total
+de eleitores, o percentual de votos que cada candidato recebeu
+(em relação ao número total de eleitores), o percentual de
+brancos e o percentual de nulos.
